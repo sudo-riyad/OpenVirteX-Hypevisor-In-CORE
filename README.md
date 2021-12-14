@@ -33,4 +33,4 @@ virtualization technique of creating single virtual switch composed out of multi
 With the routing algorithm information, OpenVirteX creates the route in the physical devices. If any interruptions occur in the physical path, there are a number of backup path will take responsibility that is also specified through REST API.
 
 
-For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/ONOS-SDN-Controller_BGP-in-CORE-/blob/042e051c7c38ef6c3e93a98cb1a45815bc38dd18/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
+For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/OpenVirteX-Hypevisor-In-CORE/blob/15c2e701b4ad0e018ba997ec266048fbff0fecdd/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
