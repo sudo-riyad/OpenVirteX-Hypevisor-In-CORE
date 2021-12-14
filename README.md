@@ -2,6 +2,10 @@
 
 ## This is the implemetation and documentation for implenemting OpenVirteX hypervisor in SDN data plane in CORE emulator for Master project
 
+### LICENCE 
+
+Copyright © Riyad Ul Islam
+
 ### The followings is the architectural overview of SDN network implementation
 
 This approach is based on network virtualization. In this project, OpenVirteX hypervisor is considered to fulfil
@@ -32,5 +36,6 @@ virtualization technique of creating single virtual switch composed out of multi
 
 With the routing algorithm information, OpenVirteX creates the route in the physical devices. If any interruptions occur in the physical path, there are a number of backup path will take responsibility that is also specified through REST API.
 
+### Documentation 
 
 For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/OpenVirteX-Hypevisor-In-CORE/blob/15c2e701b4ad0e018ba997ec266048fbff0fecdd/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
